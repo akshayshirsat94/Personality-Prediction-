@@ -1,10 +1,16 @@
 # Personality-Prediction-
 Personality Prediction based on their personality traits. The project is used to detect the personality (Dependable, Extrovert, Lively, Responsible or Serious) of the person. Personality of the person is compared with previous data based on which the model will detect the personality of the user.
+
 Personality is typically assessed along five dimensions known as the Big Five: 
-• Extraversion vs. Introversion (sociable, assertive, playful vs. aloof, reserved, shy) 
+
+• Extraversion vs. Introversion (sociable, assertive, playful vs. aloof, reserved, shy)
+
 • Emotional stability vs. Neuroticism (calm, unemotional vs. insecure, anxious) 
-• Agreeableness vs. Disagreeable (friendly, cooperative vs. antagonistic, faultfinding) 
+
+• Agreeableness vs. Disagreeable (friendly, cooperative vs. antagonistic, faultfinding)
+
 • Conscientiousness vs. Unconscientiously (self-disciplined, organized vs. inefficient, careless) 
+
 • Openness to experience (intellectual, insightful vs. shallow, unimaginative)
 
 Advantages and applications: 
